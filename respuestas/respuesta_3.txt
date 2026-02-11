@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+SERIES TEMPORALES | Análisis temporal de transacciones históricas y detección de tendencias

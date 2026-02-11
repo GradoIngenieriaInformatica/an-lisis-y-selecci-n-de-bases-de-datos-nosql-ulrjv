@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+CLAVE-VALOR | Acceso rápido mediante identificadores únicos para caché distribuido

@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Análisis de comunidades y grados de separación en redes sociales
